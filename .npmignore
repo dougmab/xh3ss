@@ -1,0 +1,16 @@
+/src
+/node_modules
+.gitub/
+.changeset/
+
+# lock files
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# configuration
+tsconfig.json
+tsup.config.ts
+eslint.config.js
+tsup.config.ts
+.prettierrc
